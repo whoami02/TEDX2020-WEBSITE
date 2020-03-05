@@ -1,0 +1,208 @@
+/*Google Fonts*/
+@import url('https://fonts.googleapis.com/css?family=Baskervville|Bitter|Calistoga|Lobster|Raleway|Roboto|Solway|Sulphur+Point|Tomorrow|Work+Sans&display=swap');
+
+
+
+@import url(css/animate.css);
+@import url(css/camera.css);
+@import url(css/flaticon.css);
+@import url(css/prettyPhoto.css);
+@import url(css/owl.carousel.css);
+@import url(css/font-awesome.min.css);
+
+
+
+
+body{
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+	height: auto;
+    position: relative; 
+
+}
+
+.nav-bg{
+	background-color: black;
+	width: 100%;
+}
+
+.nav-icon{
+	color: white;
+}
+
+.nav-link{
+	
+	font-style: bold;
+	font-size: 16px;
+	font-family: Baskervville;
+	margin-left: 30px;
+	padding: 12px;
+	letter-spacing: 3px;
+
+}
+
+.element{
+	background-image: url(background/back33.gif);
+	background-repeat: no-repeat;
+	max-width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+.navbar.navbar .navbar-toggler-icon {
+background-image: url('https://mdbootstrap.com/img/svg/hamburger8.svg?color=E3005C');
+}
+/*
+.navbar.navbar .navbar-toggler-icon {
+background-image: url('https://mdbootstrap.com/img/svg/hamburger1.svg?color=6a1b9a');
+}
+
+*/
+
+
+.full-back{
+	background-image: url(back5.jpeg);
+	background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.main1{
+	margin-bottom: 120px;
+}
+
+.idea{
+	color: red;
+	font-size:7vw;
+	font-family: Calistoga;
+}
+
+.full-circle {
+	font-size: 65px;
+	font-family: Tomorrow;
+	font-style: bold;
+	color: red;
+}
+
+.margin{
+	margin-top: 150px;
+}
+
+.theme{
+	margin-top: 60px;
+	font-family: Solway;
+}
+.main-para{
+	font-size: 20px;
+	font-family: solway;
+}
+
+.theme-2{
+	font-size: 50px;
+	font-style: bold;
+	font-family:Calistoga;
+
+}
+.Speakers{
+	font-family: Baskervville;
+	font-style: bold;
+	font-size: 45px;
+}
+
+
+.btn-0{
+	color: white; 
+	font-style: bold;
+	font-family: Bitter;
+}
+
+.speakers-images{
+	background-color: #e0e0e0;
+}
+
+.about-us{
+	font-size: 40px;
+	font-family: Calistoga;
+}
+
+.para-2{
+	font-size: 18px;
+	color: #607d8b;
+}
+.about-us{
+	margin-top: 25px;
+}
+
+.team-position{
+	font-size: 18px;
+	color: #607d8b;
+	font-family: Bitter;
+}
+
+.map{
+	border-radius: 20px;
+}
+
+
+.speak2017{
+	font-family: Baskervville;
+}
+
+.past-names{
+	font-family: Raleway;
+}
+
+.past-det{
+	font-family: Tomorrow;
+	
+}
+
+
+.team-back{
+	background-color: #000000;
+}
+
+/* Map box*/
+.map-container {
+        overflow: hidden;
+        position: relative;
+        height: 0;
+        border-radius: 12px;
+}
+
+.map-container iframe {
+        left: 0;
+        top: 0;
+        height: 100%;
+        width: 100%;
+        position: absolute;
+}
+
+
+/*Team Section*/
+
+ 
+
+/* Block Quuotes */
+
+
+.blockquote-custom {
+  position: relative;
+  font-size: 1.1rem;
+}
+
+.blockquote-custom-icon {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: -25px;
+  left: 50px;
+}
